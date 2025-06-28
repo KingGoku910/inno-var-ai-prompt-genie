@@ -9,6 +9,7 @@ import { PromptBuilder } from './components/PromptBuilder/PromptBuilder';
 import { StrategyGuide } from './components/StrategyGuide/StrategyGuide';
 import { Templates } from './components/Templates/Templates';
 import { Analytics } from './components/Analytics/Analytics';
+import { Analytics as VercelAnalytics } from '@vercel/analytics/react';
 
 function App() {
   const [activeSection, setActiveSection] = useState('builder');
@@ -47,6 +48,7 @@ function App() {
           </div>
         </AnalyticsProvider>
       </ThemeProvider>
+      <VercelAnalytics />
     </BrowserRouter>
   );
 }
