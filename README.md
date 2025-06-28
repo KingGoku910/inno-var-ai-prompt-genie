@@ -43,7 +43,7 @@ Inno-Var AI Prompt Genie is a powerful web application designed to help develope
 
 Whether you're building a full-stack application, a mobile app, or a simple script, Prompt Genie provides the structured prompts you need to get the best possible results from your chosen AI model.
 
-![AI Prompt Genie Screenshot](https://i.imgur.com/your-screenshot-url.png) <!-- IMPORTANT: Replace with a real screenshot URL! -->
+![AI Prompt Genie Screenshot](https://imgur.com/eZxetD9.png) <!-- IMPORTANT: Replace with a real screenshot URL! -->
 
 ---
 
