@@ -133,6 +133,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## 📬 Contact
 
-Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your.email@example.com
+Ryno Rossouw (KingGokuD3V) - [LinkedIn](https://www.linkedin.com/in/ryno-goku90-rossouw/) - ryno.rossouw@outlook.com
 
-Project Link: [https://github.com/your-username/inno-var-prompt-genie](https://github.com/your-username/inno-var-prompt-genie)
+GitHub Link: [Inno-Var AI: AI Prompt Genie](https://github.com/KingGoku910/inno-var-ai-prompt-genie/)
+Netlify Link: [Inno-Var AI: AI Prompt Genie](https://inno-var-prompt-genie.netlify.app/)
