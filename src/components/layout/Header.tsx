@@ -22,14 +22,14 @@ export const Header: React.FC<HeaderProps> = ({ activeSection, setActiveSection 
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <div className="relative">
-              <img src="https://imgur.com/Qbn547r.png" className="w-10 h-10" />
+              <img src="https://imgur.com/Qbn547r.png" className="w-16 h-16" />
             </div>
             <div>
               <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-                 AI-<span class="text-aquamarine-500">Prompt</span>Genie
+                 AI-<span className="text-blue-600">Prompt</span>Genie
               </h1>
               <p className="text-xs text-gray-900 dark:text-gray-400">
-                 by <a href="https://innovatex-ai.net">Innova<span class="text-aquamarine-500 font-bold">TEX</span>-AI</a>
+                 by <a href="https://innovatex-ai.net">Innova<span className="text-blue-600 font-bold">TEX</span>-AI</a>
               </p>
             </div>
           </div>
