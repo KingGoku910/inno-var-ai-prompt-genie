@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 align="center">🤖 Inno-Var AI Prompt Genie 🤖</h1>
+  <h1 align="center">🤖 InnovaTEX-AI: Prompt Genie 🤖</h1>
   <p align="center">
     An intelligent AI prompt engineering platform that democratizes advanced prompt techniques for developers across all tech stacks and platforms.
     <br />
-    <a href="https://inno-var-prompt-genie.netlify.app/"><strong>Explore the Live Demo »</strong></a>
+    <a href="https://innovatex-ai-prompt-genie.netlify.app/"><strong>Explore the Live Demo »</strong></a>
     <br />
     <br />
     <a href="https://github.com/your-username/inno-var-prompt-genie/issues">Report Bug</a>
@@ -75,6 +75,22 @@ This project is built with a modern, scalable, and type-safe technology stack.
 
 ---
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![InnovaTEX-AI - Prompt-Genie](https://imgur.com/Qbn547r.png)
+---
+![Static Badge](https://img.shields.io/badge/inno-Prompt_Genie-ai?style=for-the-badge&logo=%3Cimg%20src%3D%22https%3A%2F%2Fimgur.com%2FQbn547r.png%22%2F%3E&logoColor=ffffff&logoSize=auto&label=InnovaTEX-AI&labelColor=black&color=0006a4&cacheSeconds=3600)
+![Netlify Status](https://api.netlify.com/api/v1/badges/20e56943-252d-44b4-9cad-1cd060f26aae/deploy-status)
+
+
+
+
+---
+
 ## ⚙️ Getting Started
 
 To get a local copy up and running, follow these simple steps.
@@ -135,5 +151,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ryno Rossouw (KingGokuD3V) - [LinkedIn](https://www.linkedin.com/in/ryno-goku90-rossouw/) - ryno.rossouw@outlook.com
 
-GitHub Link: [Inno-Var AI: AI Prompt Genie](https://github.com/KingGoku910/inno-var-ai-prompt-genie/)
-Netlify Link: [Inno-Var AI: AI Prompt Genie](https://inno-var-prompt-genie.netlify.app/)
+GitHub Link: [InnovaTEX-AI: Prompt Genie](https://github.com/KingGoku910/inno-var-ai-prompt-genie/)
+Netlify Link: [InnovaTEX-AI: Prompt Genie](https://innovatex-ai-prompt-genie.netlify.app/)*   **🌐 Live Demo Site:**  `https://innovatex-ai-prompt-genie.netlify.app`
